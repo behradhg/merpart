@@ -11,11 +11,12 @@
   
   [aryan](https://telegram.me/PowerShield_SUDO) _[Manager]_
   
-  `Git Hub` : https://github.com/behradhg/merpart
-  `channel` : @partteam
+  ###`Git Hub` : https://github.com/behradhg/merpart
+  
+  ###`channel` : @partteam
   
   `Special thanks to` : 
-  *merbot*
-  *seedteam*
+  ###*merbot*
+  ###*seedteam*
   
   #soon..
