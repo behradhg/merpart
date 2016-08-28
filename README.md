@@ -1,4 +1,4 @@
-
+#soon..
   *Mer-Part*
   `An advanced administration bot based on TG-CLI written in Lua`
   
@@ -11,12 +11,12 @@
   
   [aryan](https://telegram.me/PowerShield_SUDO) _[Manager]_
   
-  ###`Git Hub` : https://github.com/behradhg/merpart
+  `Git Hub` : https://github.com/behradhg/merpart
   
-  ###`channel` : @partteam
+ `channel` : @partteam
   
   `Special thanks to` : 
-  ###*merbot*
-  ###*seedteam*
+  *merbot*   
+     *seedteam*
   
-  #soon..
+  
